@@ -1,7 +1,3 @@
 {
-  "api_url": "https://example.com/api",
-  "backup_api": "https://backup.example.com/api",
-  "tool_enabled": true,
-  "latest_version": "1.0",
-  "force_update": false
+  "base_url": "https://gd65.pythonanywhere.com/"
 }
